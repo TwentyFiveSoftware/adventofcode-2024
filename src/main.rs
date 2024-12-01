@@ -1,3 +1,5 @@
+mod day01;
+
 fn main() {
-    println!("Hello World");
+    day01::main();
 }
